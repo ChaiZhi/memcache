@@ -1,1 +1,2 @@
-This is a memcache abstract client include a spymemcached client instance.
+This is a memcache abstract client.
+PS: include a spymemcached client instance.
